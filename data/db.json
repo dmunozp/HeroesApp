@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": null
     },
     {
       "id": "dc-superman",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "7x7_cVx",
+      "superhero": "songohan",
+      "publisher": "DC Comics",
+      "alter_ego": "",
+      "first_appearance": "",
+      "characters": "",
+      "alt_img": "https://areajugones.sport.es/wp-content/uploads/2020/07/son-gohan-dragon-ball-super-1080x609.jpg"
     }
   ]
 }
